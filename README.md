@@ -1,7 +1,7 @@
 # TensorFlow_with_Colab_tutorial
 
 <p align="center">
-  <img width="300" heigth="300" src="Images_for_readme/Image1.png">
+  <img width="300" heigth="300" src="Images_for_Readme/Image1.png">
   <br>
 </p>
 
